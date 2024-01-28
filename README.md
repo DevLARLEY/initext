@@ -1,5 +1,7 @@
 # initext
 Extract key ids from an init.mp4 file
+THIS PROGRAM IS NOT FINISHED YET
+ONLY WEEAK SUPPORT FOR WIDEVINE PSSH DATA AND 1 KEY ID
 
 # Usage
 + `initext_x64.exe <init.mp4 path>`
