@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "initext": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\titus\\Documents\\Downloader\\WKS-KEYS\\init.mp4\""
+    }
+  }
+}
