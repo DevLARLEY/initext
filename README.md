@@ -10,4 +10,6 @@
 + Run `dotnet publish -r win-x64 -c Release -p:PublishAot=true` in the 'initext' directory
 
 # Preview
-![image](https://github.com/DevLARLEY/initext/assets/121249322/b2ee8166-9737-47ea-99bf-22a857293e14)
+Upper PSSH: Widevine
+Lower PSSH: PlayReady
+![Screenshot 2024-01-29 164626](https://github.com/DevLARLEY/initext/assets/121249322/ee544379-7994-4444-9cee-8b5acb613d09)
