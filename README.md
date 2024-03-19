@@ -4,7 +4,7 @@
 + 64-bit only.
 
 # pyinitext
-python version of initext: [here](https://github.com/DevLARLEY/initext)
+python version of initext: [here](https://github.com/DevLARLEY/pyinitext)
 
 # Usage
 + `initext_x64.exe <init.mp4 path>`
