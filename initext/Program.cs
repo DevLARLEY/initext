@@ -43,7 +43,7 @@ namespace initext
                                         break;
                                     default:
                                         int s2 = Convert.ToInt32(f.Substring(p + 2, 2), 16) * 2;
-                                        if (h.Equals("12"))
+                                        if (h.Equals("12") || h.Equals("22"))
                                         {
                                             t.Add(f.Substring(p + 4, s2));
                                         }
@@ -97,7 +97,7 @@ namespace initext
                                 Console.WriteLine("PSSH (Base64): " + Convert.ToBase64String(Convert.FromHexString((string)o[0])));
                                 for (int i = 1; i < o.Length; i++)
                                 {
-                                    Console.WriteLine("  |=> Key ID: " + o[i].ToString().ToLower());
+                                    Console.WriteLine("  |=> Key/Content ID: " + o[i].ToString().ToLower());
                                 }
                                 Console.WriteLine();
                             }
