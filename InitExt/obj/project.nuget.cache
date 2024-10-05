@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "h/1pWBSCaBI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\titus\\RiderProjects\\InitExt\\InitExt\\InitExt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\titus\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.8\\microsoft.dotnet.ilcompiler.8.0.8.nupkg.sha512",
+    "C:\\Users\\titus\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.8\\microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
+    "C:\\Users\\titus\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.8\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.8.nupkg.sha512",
+    "C:\\Users\\titus\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.8\\microsoft.netcore.app.runtime.win-x64.8.0.8.nupkg.sha512",
+    "C:\\Users\\titus\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.8\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.8.nupkg.sha512",
+    "C:\\Users\\titus\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.8\\microsoft.aspnetcore.app.runtime.win-x64.8.0.8.nupkg.sha512",
+    "C:\\Users\\titus\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.8\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

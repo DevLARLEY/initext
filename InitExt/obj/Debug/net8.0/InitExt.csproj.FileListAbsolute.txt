@@ -1,0 +1,17 @@
+C:\Users\titus\RiderProjects\InitExt\InitExt\bin\Debug\net8.0\InitExt.exe
+C:\Users\titus\RiderProjects\InitExt\InitExt\bin\Debug\net8.0\InitExt.deps.json
+C:\Users\titus\RiderProjects\InitExt\InitExt\bin\Debug\net8.0\InitExt.runtimeconfig.json
+C:\Users\titus\RiderProjects\InitExt\InitExt\bin\Debug\net8.0\InitExt.dll
+C:\Users\titus\RiderProjects\InitExt\InitExt\bin\Debug\net8.0\InitExt.pdb
+C:\Users\titus\RiderProjects\InitExt\InitExt\obj\Debug\net8.0\InitExt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\titus\RiderProjects\InitExt\InitExt\obj\Debug\net8.0\InitExt.AssemblyInfoInputs.cache
+C:\Users\titus\RiderProjects\InitExt\InitExt\obj\Debug\net8.0\InitExt.AssemblyInfo.cs
+C:\Users\titus\RiderProjects\InitExt\InitExt\obj\Debug\net8.0\InitExt.csproj.CoreCompileInputs.cache
+C:\Users\titus\RiderProjects\InitExt\InitExt\obj\Debug\net8.0\InitExt.dll
+C:\Users\titus\RiderProjects\InitExt\InitExt\obj\Debug\net8.0\refint\InitExt.dll
+C:\Users\titus\RiderProjects\InitExt\InitExt\obj\Debug\net8.0\InitExt.pdb
+C:\Users\titus\RiderProjects\InitExt\InitExt\obj\Debug\net8.0\InitExt.genruntimeconfig.cache
+C:\Users\titus\RiderProjects\InitExt\InitExt\obj\Debug\net8.0\ref\InitExt.dll
+C:\Users\titus\RiderProjects\InitExt\InitExt\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\titus\RiderProjects\InitExt\InitExt\obj\Debug\net8.0\InitExt.csproj.AssemblyReference.cache
+C:\Users\titus\RiderProjects\InitExt\InitExt\obj\Debug\net8.0\InitExt.csproj.Up2Date
